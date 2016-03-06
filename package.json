@@ -1,0 +1,24 @@
+{
+  "name": "otello",
+  "version": "0.1.0",
+  "description": "otello game",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack --progress --colors --watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ewag707/otello.git"
+  },
+  "author": "Ewa Gonera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ewag707/otello/issues"
+  },
+  "homepage": "https://github.com/ewag707/otello#readme",
+  "dependencies": {
+    "jquery": "^2.2.1",
+    "webpack": "^1.12.14"
+  }
+}
